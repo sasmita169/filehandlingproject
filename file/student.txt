@@ -1,0 +1,37 @@
+
+1
+sasmita giri
+22
+MCA
+2
+priyanka moharana
+23
+Btech
+3
+arpita giri
+24
+Mtech
+4
+suman panigrahi
+23
+btech
+5
+ramesh misra
+25
+mtech
+6
+dinesh ratha
+21
+btech
+7
+pooja sharma
+20
+MCA
+8
+sandhyarani bhoi
+23
+btech
+9
+rupam samal
+24
+btech
